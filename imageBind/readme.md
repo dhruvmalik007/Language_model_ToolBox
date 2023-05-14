@@ -1,4 +1,4 @@
-## ImageBind: unified Embedding for multi context image models:
+## ImageBind: Unified Embedding for multi context image models:
 
 ### Abstract: 
 - Demonstrates capablity of querying results from various readings of the current prompt (image, audio, etc) from a single representation space, and then allows user to query the image / audio data by giging input from any of these information.
@@ -9,6 +9,6 @@
 - Similar to adding audio prompt of a famous song and it gets the image of the singer along with video showing the vevo song from youtube. 
 
 
-### related article: 
+###  real life usecase  implementation:
+1. with HNSW tensor search project like 
 
-TODO
