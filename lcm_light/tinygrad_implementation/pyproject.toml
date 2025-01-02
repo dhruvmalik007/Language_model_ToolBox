@@ -1,0 +1,12 @@
+[project]
+name = "large-concept-model-tinygrad"
+requires-python = ">=3.10"
+version = "0.1.0"
+description = "Building the implementation of the facebook large concept model (LCM) implementation in tinygrad"
+dependencies = [
+    "tinygrad==0.10.0",
+    "datasets<=3.2.0",
+    "pyarrow>=16.1.0",
+    ""
+]
+

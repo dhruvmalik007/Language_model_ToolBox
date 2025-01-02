@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: large-concept-model-tinygrad
+Version: 0.1.0
+Summary: Building the implementation of the facebook large concept model (LCM) implementation in tinygrad
+Requires-Python: >=3.10
+Requires-Dist: tinygrad==0.10.0
+Requires-Dist: datasets<=3.2.0
+Requires-Dist: pyarrow>=16.1.0
